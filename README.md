@@ -18,7 +18,8 @@ The Image-Based Irrigation System is a Python project that aims to design an irr
 - **User Interaction:** Select starting points and visualize paths avoiding ditches and obstacles like trees and houses.
 
 ## Image Representation
-![Irrigation System Example](https://drive.google.com/drive/u/3/folders/1nmWVygXb-aKSW9upupCH2KsCBI-uE5aI "Irrigation System Overview")
+<img src="https://github.com/user-attachments/assets/242f218d-e237-475a-a78e-15247699b974" alt="Irrigation graph" width="400"/>
+
 
 
 ## Contributing
