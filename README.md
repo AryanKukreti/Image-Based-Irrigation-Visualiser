@@ -17,6 +17,10 @@ The Image-Based Irrigation System is a Python project that aims to design an irr
 - **Graph Algorithms:** Utilize Delaunay triangulation and Minimum Spanning Tree (MST) to plan the irrigation path.
 - **User Interaction:** Select starting points and visualize paths avoiding ditches and obstacles like trees and houses.
 
+## Image Representation
+![Irrigation System Example](https://drive.google.com/drive/u/3/folders/1nmWVygXb-aKSW9upupCH2KsCBI-uE5aI "Irrigation System Overview")
+
+
 ## Contributing
   Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
